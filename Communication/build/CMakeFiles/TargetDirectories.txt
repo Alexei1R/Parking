@@ -1,0 +1,3 @@
+/home/toor/Code/Parking/Communication/build/CMakeFiles/MyExecutable.dir
+/home/toor/Code/Parking/Communication/build/CMakeFiles/edit_cache.dir
+/home/toor/Code/Parking/Communication/build/CMakeFiles/rebuild_cache.dir

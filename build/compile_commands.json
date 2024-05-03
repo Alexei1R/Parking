@@ -1,0 +1,236 @@
+[
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -I/home/toor/Code/Parking/libs/yaml-cpp/src -O3 -DNDEBUG -std=gnu++17 -fPIC -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp.dir/src/contrib/graphbuilder.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/src/contrib/graphbuilder.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/src/contrib/graphbuilder.cpp",
+  "output": "libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/contrib/graphbuilder.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -I/home/toor/Code/Parking/libs/yaml-cpp/src -O3 -DNDEBUG -std=gnu++17 -fPIC -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp.dir/src/contrib/graphbuilderadapter.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/src/contrib/graphbuilderadapter.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/src/contrib/graphbuilderadapter.cpp",
+  "output": "libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/contrib/graphbuilderadapter.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -I/home/toor/Code/Parking/libs/yaml-cpp/src -O3 -DNDEBUG -std=gnu++17 -fPIC -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp.dir/src/binary.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/src/binary.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/src/binary.cpp",
+  "output": "libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/binary.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -I/home/toor/Code/Parking/libs/yaml-cpp/src -O3 -DNDEBUG -std=gnu++17 -fPIC -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp.dir/src/convert.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/src/convert.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/src/convert.cpp",
+  "output": "libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/convert.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -I/home/toor/Code/Parking/libs/yaml-cpp/src -O3 -DNDEBUG -std=gnu++17 -fPIC -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp.dir/src/depthguard.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/src/depthguard.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/src/depthguard.cpp",
+  "output": "libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/depthguard.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -I/home/toor/Code/Parking/libs/yaml-cpp/src -O3 -DNDEBUG -std=gnu++17 -fPIC -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp.dir/src/directives.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/src/directives.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/src/directives.cpp",
+  "output": "libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/directives.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -I/home/toor/Code/Parking/libs/yaml-cpp/src -O3 -DNDEBUG -std=gnu++17 -fPIC -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp.dir/src/emit.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/src/emit.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/src/emit.cpp",
+  "output": "libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/emit.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -I/home/toor/Code/Parking/libs/yaml-cpp/src -O3 -DNDEBUG -std=gnu++17 -fPIC -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp.dir/src/emitfromevents.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/src/emitfromevents.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/src/emitfromevents.cpp",
+  "output": "libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/emitfromevents.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -I/home/toor/Code/Parking/libs/yaml-cpp/src -O3 -DNDEBUG -std=gnu++17 -fPIC -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp.dir/src/emitter.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/src/emitter.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/src/emitter.cpp",
+  "output": "libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/emitter.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -I/home/toor/Code/Parking/libs/yaml-cpp/src -O3 -DNDEBUG -std=gnu++17 -fPIC -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp.dir/src/emitterstate.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/src/emitterstate.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/src/emitterstate.cpp",
+  "output": "libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/emitterstate.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -I/home/toor/Code/Parking/libs/yaml-cpp/src -O3 -DNDEBUG -std=gnu++17 -fPIC -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp.dir/src/emitterutils.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/src/emitterutils.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/src/emitterutils.cpp",
+  "output": "libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/emitterutils.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -I/home/toor/Code/Parking/libs/yaml-cpp/src -O3 -DNDEBUG -std=gnu++17 -fPIC -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp.dir/src/exceptions.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/src/exceptions.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/src/exceptions.cpp",
+  "output": "libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/exceptions.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -I/home/toor/Code/Parking/libs/yaml-cpp/src -O3 -DNDEBUG -std=gnu++17 -fPIC -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp.dir/src/exp.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/src/exp.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/src/exp.cpp",
+  "output": "libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/exp.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -I/home/toor/Code/Parking/libs/yaml-cpp/src -O3 -DNDEBUG -std=gnu++17 -fPIC -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp.dir/src/memory.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/src/memory.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/src/memory.cpp",
+  "output": "libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/memory.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -I/home/toor/Code/Parking/libs/yaml-cpp/src -O3 -DNDEBUG -std=gnu++17 -fPIC -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp.dir/src/node.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/src/node.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/src/node.cpp",
+  "output": "libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/node.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -I/home/toor/Code/Parking/libs/yaml-cpp/src -O3 -DNDEBUG -std=gnu++17 -fPIC -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp.dir/src/node_data.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/src/node_data.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/src/node_data.cpp",
+  "output": "libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/node_data.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -I/home/toor/Code/Parking/libs/yaml-cpp/src -O3 -DNDEBUG -std=gnu++17 -fPIC -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp.dir/src/nodebuilder.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/src/nodebuilder.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/src/nodebuilder.cpp",
+  "output": "libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/nodebuilder.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -I/home/toor/Code/Parking/libs/yaml-cpp/src -O3 -DNDEBUG -std=gnu++17 -fPIC -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp.dir/src/nodeevents.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/src/nodeevents.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/src/nodeevents.cpp",
+  "output": "libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/nodeevents.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -I/home/toor/Code/Parking/libs/yaml-cpp/src -O3 -DNDEBUG -std=gnu++17 -fPIC -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp.dir/src/null.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/src/null.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/src/null.cpp",
+  "output": "libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/null.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -I/home/toor/Code/Parking/libs/yaml-cpp/src -O3 -DNDEBUG -std=gnu++17 -fPIC -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp.dir/src/ostream_wrapper.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/src/ostream_wrapper.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/src/ostream_wrapper.cpp",
+  "output": "libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/ostream_wrapper.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -I/home/toor/Code/Parking/libs/yaml-cpp/src -O3 -DNDEBUG -std=gnu++17 -fPIC -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp.dir/src/parse.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/src/parse.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/src/parse.cpp",
+  "output": "libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/parse.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -I/home/toor/Code/Parking/libs/yaml-cpp/src -O3 -DNDEBUG -std=gnu++17 -fPIC -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp.dir/src/parser.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/src/parser.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/src/parser.cpp",
+  "output": "libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/parser.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -I/home/toor/Code/Parking/libs/yaml-cpp/src -O3 -DNDEBUG -std=gnu++17 -fPIC -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp.dir/src/regex_yaml.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/src/regex_yaml.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/src/regex_yaml.cpp",
+  "output": "libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/regex_yaml.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -I/home/toor/Code/Parking/libs/yaml-cpp/src -O3 -DNDEBUG -std=gnu++17 -fPIC -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp.dir/src/scanner.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/src/scanner.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/src/scanner.cpp",
+  "output": "libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/scanner.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -I/home/toor/Code/Parking/libs/yaml-cpp/src -O3 -DNDEBUG -std=gnu++17 -fPIC -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp.dir/src/scanscalar.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/src/scanscalar.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/src/scanscalar.cpp",
+  "output": "libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/scanscalar.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -I/home/toor/Code/Parking/libs/yaml-cpp/src -O3 -DNDEBUG -std=gnu++17 -fPIC -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp.dir/src/scantag.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/src/scantag.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/src/scantag.cpp",
+  "output": "libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/scantag.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -I/home/toor/Code/Parking/libs/yaml-cpp/src -O3 -DNDEBUG -std=gnu++17 -fPIC -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp.dir/src/scantoken.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/src/scantoken.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/src/scantoken.cpp",
+  "output": "libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/scantoken.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -I/home/toor/Code/Parking/libs/yaml-cpp/src -O3 -DNDEBUG -std=gnu++17 -fPIC -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp.dir/src/simplekey.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/src/simplekey.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/src/simplekey.cpp",
+  "output": "libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/simplekey.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -I/home/toor/Code/Parking/libs/yaml-cpp/src -O3 -DNDEBUG -std=gnu++17 -fPIC -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp.dir/src/singledocparser.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/src/singledocparser.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/src/singledocparser.cpp",
+  "output": "libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/singledocparser.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -I/home/toor/Code/Parking/libs/yaml-cpp/src -O3 -DNDEBUG -std=gnu++17 -fPIC -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp.dir/src/stream.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/src/stream.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/src/stream.cpp",
+  "output": "libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/stream.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -I/home/toor/Code/Parking/libs/yaml-cpp/src -O3 -DNDEBUG -std=gnu++17 -fPIC -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp.dir/src/tag.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/src/tag.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/src/tag.cpp",
+  "output": "libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/tag.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp/util",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -O3 -DNDEBUG -std=gnu++17 -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp-sandbox.dir/sandbox.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/util/sandbox.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/util/sandbox.cpp",
+  "output": "libs/yaml-cpp/util/CMakeFiles/yaml-cpp-sandbox.dir/sandbox.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp/util",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -O3 -DNDEBUG -std=gnu++17 -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp-parse.dir/parse.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/util/parse.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/util/parse.cpp",
+  "output": "libs/yaml-cpp/util/CMakeFiles/yaml-cpp-parse.dir/parse.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/libs/yaml-cpp/util",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/libs/yaml-cpp/include -O3 -DNDEBUG -std=gnu++17 -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/yaml-cpp-read.dir/read.cpp.o -c /home/toor/Code/Parking/libs/yaml-cpp/util/read.cpp",
+  "file": "/home/toor/Code/Parking/libs/yaml-cpp/util/read.cpp",
+  "output": "libs/yaml-cpp/util/CMakeFiles/yaml-cpp-read.dir/read.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/app",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/app -I/opt/cuda/include -I/home/toor/Code/Parking/libs/yaml-cpp/include -isystem /usr/local/include/opencv4 -O3 -DNDEBUG -std=gnu++17 -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/executable.dir/main.cpp.o -c /home/toor/Code/Parking/app/main.cpp",
+  "file": "/home/toor/Code/Parking/app/main.cpp",
+  "output": "app/CMakeFiles/executable.dir/main.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/app",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/app -I/opt/cuda/include -I/home/toor/Code/Parking/libs/yaml-cpp/include -isystem /usr/local/include/opencv4 -O3 -DNDEBUG -std=gnu++17 -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/executable.dir/ai.cpp.o -c /home/toor/Code/Parking/app/ai.cpp",
+  "file": "/home/toor/Code/Parking/app/ai.cpp",
+  "output": "app/CMakeFiles/executable.dir/ai.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/app",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/app -I/opt/cuda/include -I/home/toor/Code/Parking/libs/yaml-cpp/include -isystem /usr/local/include/opencv4 -O3 -DNDEBUG -std=gnu++17 -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/executable.dir/engine.cpp.o -c /home/toor/Code/Parking/app/engine.cpp",
+  "file": "/home/toor/Code/Parking/app/engine.cpp",
+  "output": "app/CMakeFiles/executable.dir/engine.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/app",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/app -I/opt/cuda/include -I/home/toor/Code/Parking/libs/yaml-cpp/include -isystem /usr/local/include/opencv4 -O3 -DNDEBUG -std=gnu++17 -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/executable.dir/pch.cpp.o -c /home/toor/Code/Parking/app/pch.cpp",
+  "file": "/home/toor/Code/Parking/app/pch.cpp",
+  "output": "app/CMakeFiles/executable.dir/pch.cpp.o"
+},
+{
+  "directory": "/home/toor/Code/Parking/build/app",
+  "command": "/usr/bin/c++ -DYAML_CPP_STATIC_DEFINE -I/home/toor/Code/Parking/app -I/opt/cuda/include -I/home/toor/Code/Parking/libs/yaml-cpp/include -isystem /usr/local/include/opencv4 -O3 -DNDEBUG -std=gnu++17 -Wno-array-bounds -Wno-error=stringop-overflow -o CMakeFiles/executable.dir/Utils.cpp.o -c /home/toor/Code/Parking/app/Utils.cpp",
+  "file": "/home/toor/Code/Parking/app/Utils.cpp",
+  "output": "app/CMakeFiles/executable.dir/Utils.cpp.o"
+}
+]
